@@ -19,6 +19,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Chat app server git repo:
 
-### `https://github.com/manishtmtmt/chat-server`
+### <https://github.com/manishtmtmt/chat-server>
 
 # mt-chat-app
